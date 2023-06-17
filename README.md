@@ -6,3 +6,5 @@ Features
 Infinite Gameplay: The game world is procedurally generated, offering an infinite and unique playing experience every time.
 Collect Cubes: Gather as many cubes as you can to increase your score and unlock new achievements.
 Obstacle Avoidance: Dodge and navigate around obstacles such as moving cubes and challenging terrain to stay alive and continue your journey.
+
+![alt text](http://url/to/img.png)
