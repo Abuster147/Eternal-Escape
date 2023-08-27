@@ -1,7 +1,7 @@
 # Eternal Escape - Game Readme
 Welcome to Eternal Escape! This is an exciting cube game that takes you on an infinite journey through a virtual world of cubes. In this game, you'll explore, collect cubes, and strive to achieve the highest score possible.
 </br>
-Youtube Video Link - https://youtu.be/MvVaqKGnQmo
+Youtube Video Link - https://youtu.be/o56h0sWeaL0?feature=shared
 </br>
 
 </br>
